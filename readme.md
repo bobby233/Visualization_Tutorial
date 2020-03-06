@@ -25,7 +25,7 @@ Matplotlib是一个Python的绘图库，现在的新版本支持2D和3D的绘图
 ## 课程简介
 在这个教程中，你可以学习关于Matplotlib的一切，从最简单的折线图`plot()`，到深入的知识。因为我也在慢慢地学习Matplotlib，所以**课程的更新不会很及时，请大家耐心等待。**
 ## 学前条件
-因为Matplotlib是一个Python的第三方库，所以这里的大部分知识和Python相关，需要大家先学习基本的Python知识。从最简单的打印`print()`，到中等的交互式`input()`和文件操作`with open()`，再到函数`def`和类`class`，都要学会。编辑器也最好不要使用自带的IDLE，换用VSCode或者Sublime Text，最好不要用Pycharm，我们不需要这么高级的，如果实在想用高级代码补全，推荐[kite插件](www.kite.com)来代替。
+因为Matplotlib是一个Python的第三方库，所以这里的大部分知识和Python相关，需要大家先学习基本的Python知识。从最简单的打印`print()`，到中等的交互式`input()`和文件操作`with open()`，再到函数`def`和类`class`，都要学会。编辑器也最好不要使用自带的IDLE，换用VSCode或者Sublime Text，最好不要用Pycharm，我们不需要这么高级的，如果实在想用高级代码补全，推荐[kite插件](https://www.kite.com)来代替。
 ## 学习路线
 因为我是一位学生，而且最近的网课也很多，所以学习的量肯定不会很多，每周学一课就够了，主要是多多练习，熟能生巧。
 
