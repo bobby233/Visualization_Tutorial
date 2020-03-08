@@ -40,7 +40,7 @@ Matplotlib是一个Python的绘图库，现在的新版本支持2D和3D的绘图
         - [2.改善散点图](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第二节、散点图/2.改善散点图.md)
     - 第三节、个性化
         - [1.折线图线条](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第三节、个性化/1.折线图线条.md)
-        - 2.散点图散点
+        - [2.散点图散点](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第三节、个性化/2.散点图散点.md)
     - 第四节、自动化计算
         - 1.计算连续数据
         - 2.随机漫步
