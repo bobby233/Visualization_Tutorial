@@ -37,7 +37,7 @@ Matplotlib是一个Python的绘图库，现在的新版本支持2D和3D的绘图
         - [3.改善折线图之校正数据](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第一节、折线图/3.改善折线图之校正数据.md)
     - 第二节、散点图
         - [1.绘制简单的散点图](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第二节、散点图/1.绘制简单的散点图.md)
-        - 2.改善散点图
+        - [2.改善散点图](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第二节、散点图/2.改善散点图.md)
     - 第三节、个性化
         - 1.折线图线条
         - 2.散点图散点
