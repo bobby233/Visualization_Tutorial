@@ -34,5 +34,9 @@ Matplotlib是一个Python的绘图库，现在的新版本支持2D和3D的绘图
     - 第一节、折线图
         - [1.绘制简单的折线图](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第一节、折线图/1.绘制简单的折线图.md)
         - [2.改善折线图之增加标题和轴标题](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第一节、折线图/2.改善折线图之增加标题和轴标题.md)
+        - [3.改善折线图之校正数据](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第一节、折线图/3.改善折线图之校正数据.md)
 
 更多课程补充中...
+
+# 交流
+欢迎大家和我交流，可以加QQ2370706289或者邮件mczsjzsjz@outlook.com
