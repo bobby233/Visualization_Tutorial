@@ -43,7 +43,13 @@ Matplotlib是一个Python的绘图库，现在的新版本支持2D和3D的绘图
         - [2.散点图散点](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第三节、个性化/2.散点图散点.md)
     - 第四节、自动化计算
         - [1.计算连续数据](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第四节、自动化计算/1.计算连续数据.md)
-        - 2.随机漫步
+        - [2.随机漫步](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第四节、自动化计算/2.随机漫步.md)
+    - 第五节、小插曲之Pygal
+        - 1.做一个骰子并掷几下
+        - 2.分析结果并绘制直方图
+        - 3.同时掷两个
+- 第二章、从网络获取数据
+    - 第一节、下载数据
 
 更多课程补充中...
 
