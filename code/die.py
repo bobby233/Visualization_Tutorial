@@ -12,28 +12,30 @@ class Die():
         """返回一个位于1和骰子面数之间的随机值"""
         return randint(1, self.num_sides)
 
-# 创建一个D6
-die = Die()
+# 创建一个D6和一个D10
+die1 = Die()
+die2 = Die(10)
 
-# 掷1000次骰子，并将结果存储在一个列表中
+# 掷50000次骰子，并将结果存储在一个列表中
 results = []
-for roll_num in range(1000):
-    result = die.roll()
+for roll_num in range(50000):
+    result = die1.roll() + die2.roll()
     results.append(result)
 
 # 分析结果
 frequencies = []
-for value in range(1, die.num_sides+1):
+max_result = die1.num_sides + die2.num_sides
+for value in range(2, max_result+1):
     frequency = results.count(value)
     frequencies.append(frequency)
 
 # 对结果进行可视化
 hist = pygal.Bar()
 
-hist.title = 'Results of rolling one D6 1000 times'
-hist.x_labels = list(range(1, 7))
+hist.title = 'Results of rolling a D6 and a D10 50000 times'
+hist.x_labels = list(range(2, max_result+1))
 hist.x_title = 'Result'
 hist.y_title = 'Frequency of Result'
 
-hist.add('D6', frequencies)
+hist.add('D6 + D10', frequencies)
 hist.render_to_file('die_visual.svg')
