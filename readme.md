@@ -48,6 +48,7 @@ Matplotlib是一个Python的绘图库，现在的新版本支持2D和3D的绘图
         - [1.做一个骰子并掷几下](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第五节、小插曲之Pygal/1.做一个骰子并掷几下.md)
         - [2.分析结果并绘制直方图](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第五节、小插曲之Pygal/2.分析结果并绘制直方图.md)
         - [3.同时掷两个](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/第五节、小插曲之Pygal/3.同时掷两个.md)
+    - [题外话、Matplotlib和Pygal选哪个](https://github.com/bobby233/Matplotlib_Tutorial/blob/master/tutorial/第一章、绘制简单图形/题外话、Matplotlib和Pygal选哪个.md)
 - 第二章、从网络获取数据
     - 第一节、下载数据
 
