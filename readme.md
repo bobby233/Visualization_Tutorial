@@ -1,5 +1,5 @@
 # 欢迎来到我的Matplotlib学习教程
-在这里，我们可以一起学习Matplotlib，希望我们可以共同进步，尽快精通Matplotlib。
+在这里，我们可以一起学习可视化，希望我们可以共同进步，尽快精通可视化库。在这里，我们主要学习Matplotlib，Pygal较少，虽然前期很多Pygal。
 
 # 目录
 - [了解Matplotlib](https://github.com/bobby233/Matplotlib_Tutorial#了解matplotlib)
